@@ -1,5 +1,5 @@
 #include "stats.h"
-#iclude "alert.h"
+#include "alert.h"
 
 struct Stats compute_statistics(const float* numberset, int setlength) {
     struct Stats s;
